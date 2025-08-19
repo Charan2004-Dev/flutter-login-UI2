@@ -1,0 +1,17 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+ios/Flutter/Flutter.framework
+ios/.symlinks/
+ios/Pods/
+android/.gradle/
+android/app/build/
+
+# VS Code/IntelliJ
+.vscode/
+.idea/
+
+# Other
+*.iml
